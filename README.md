@@ -1,8 +1,8 @@
 
 ## Competitive Programming
 
-- [Identical Words](cp/Identical_Words.java)
-- [Meetings](cp/Meetings.java)
-- [Next Greater Element](cp/Next_Greater_Element.java)
-- [Maximum Function](cp/Maximum_Function.java)
-- [Jump Game](cp/Jump_Game.java)
+- [Identical Words](Neo-Algo/Identical_Words.java)
+- [Meetings](Neo-Algo/Meetings.java)
+- [Next Greater Element](Neo-Algo/Next_Greater_Element.java)
+- [Maximum Function](Neo-Algo/Maximum_Function.java)
+- [Jump Game](Neo-Algo/Jump_Game.java)
