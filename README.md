@@ -6,3 +6,4 @@
 - [Next Greater Element](Neo-Algo/Next_Greater_Element.java)
 - [Maximum Function](Neo-Algo/Maximum_Function.java)
 - [Jump Game](Neo-Algo/Jump_Game.java)
+- [Intersection](Neo-Algo/Intersection.java)
